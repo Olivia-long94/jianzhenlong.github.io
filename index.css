@@ -31,12 +31,12 @@ ul li a
 ul li a .fa-brands
 {
     font-size: 6em;
-    color: #222;
+    color: rgba(34, 34, 34, 0.548);
 }
 ul li a .fa
 {
     font-size: 6em;
-    color: #222;
+    color: rgba(34, 34, 34, 0.548);
 }
 ul li::before
 {
